@@ -1,0 +1,32 @@
+body {
+	font-family: Utopia, Helvetica;
+	color: #147;
+	background: #FFF;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+h2 { 
+	font-family: Utopia, Helvetica;
+	color: #147;
+	background: #ddf;
+
+}
+h3 { background: #eef; }
+
+TH, TD, SMALL, I, B, CENTER {
+	font-family: Utopia, Helvetica;
+	color: #147;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.chartdiv {
+	width:0;
+	height: 0;
+}
